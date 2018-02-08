@@ -1,3 +1,3 @@
 class Dog
-  def initialize 
+  def initialize(bree) 
 end
